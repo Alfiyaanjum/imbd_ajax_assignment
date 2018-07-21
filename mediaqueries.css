@@ -1,0 +1,38 @@
+@media screen and (max-width: 991px){
+h1 {font-size: 2rem}
+h4{font-size:1.5rem!important}
+.my_warapper .col-lg-2{ padding: 0px}
+.col-md-7{margin-left: 40px;}
+.wd_change{width: 90%!important;}
+.col-md-9 { width: 68%;}
+.col-xs-3{font-size: 1.3rem}
+.col-xs-9{font-size: 1rem}
+
+}
+@media screen and (max-width: 480px){
+h1 {font-size: 2rem}
+.my_warapper .col-lg-2{ padding: 0px;}
+.container{ padding: 0px;}
+.navbar .col-xs-12{padding: 0px;}
+.my_warapper .col-lg-8{padding: 0px;}
+.btn{font-size: 10px;}
+.dropdown-menu{min-width: 120px;}
+.wd_change{width: 88%!important;}
+.col-md-7{margin-left: 33px;}
+ .col-md-9 { width: 75%;}
+ .col-xs-3{font-size: 1.3rem}
+.col-xs-9{font-size: 1rem}
+.col-lg-10 {display: block!important;}
+h4{font-size:1rem!important}
+
+}
+@media screen and (max-width: 700px){
+.col-lg-10 {display: block!important;}
+.form-control{margin-bottom: 10px}
+.col-lg-10 {width: 80%}		
+}
+/*@media screen and (max-width: 400px){
+.col-lg-10 {width: 80%}	
+}*/
+
+      
