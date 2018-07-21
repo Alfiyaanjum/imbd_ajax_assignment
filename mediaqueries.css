@@ -10,7 +10,8 @@ h4{font-size:1.5rem!important}
 
 }
 @media screen and (max-width: 480px){
-h1 {font-size: 2rem}
+h1 {font-size: 1.6rem}
+ h2{fonr-size:25px}
 .my_warapper .col-lg-2{ padding: 0px;}
 .container{ padding: 0px;}
 .navbar .col-xs-12{padding: 0px;}
