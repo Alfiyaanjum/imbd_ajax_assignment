@@ -23,7 +23,7 @@ let getDetail = () => {
             apiurl = `https://www.omdbapi.com/?t=${input[0].value}&y=${input[1].value}&apikey=ced27d6d`
             // if id is given
         } else if ($('input').hasClass('id_input')) {
-            apiurl = `https://www.omdbapi.com/?i=${input[0].value}&apikey=ced27d6d`
+            apiurl = `https://www.omdbapi.com/?i=${input[2].value}&apikey=ced27d6d`
         } else {
             alert('some error occured')
         }
